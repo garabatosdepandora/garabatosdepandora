@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/garabatosdepandora/static/css/main.52ef6181.css",
+    "main.js": "/garabatosdepandora/static/js/main.67901c17.js",
+    "static/js/787.6a9e17b5.chunk.js": "/garabatosdepandora/static/js/787.6a9e17b5.chunk.js",
+    "static/media/pandorita.png": "/garabatosdepandora/static/media/pandorita.8f9dd9c935bf493fb845.png",
+    "index.html": "/garabatosdepandora/index.html",
+    "main.52ef6181.css.map": "/garabatosdepandora/static/css/main.52ef6181.css.map",
+    "main.67901c17.js.map": "/garabatosdepandora/static/js/main.67901c17.js.map",
+    "787.6a9e17b5.chunk.js.map": "/garabatosdepandora/static/js/787.6a9e17b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52ef6181.css",
+    "static/js/main.67901c17.js"
+  ]
+}
